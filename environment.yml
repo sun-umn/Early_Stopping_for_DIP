@@ -1,0 +1,16 @@
+name: early-stopping
+channels:
+- defaults
+dependencies:
+- jupyter
+- nb_conda
+- numpy
+- pyyaml
+- mkl
+- setuptools
+- cmake
+- cffi
+- pytorch
+- matplotlib
+- scikit-image
+- torchvision
