@@ -29,6 +29,6 @@ More technical details and experimental results can be found in our paper
 - Hengkang Wang, wang9881@umn.edu, [https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/](https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/)
 - Taihui Li, lixx5027@umn.edu, [https://taihui.github.io/](https://taihui.github.io/)
 - Zhong Zhuang, zhuan143@umn.edu, [https://scholar.google.com/citations?user=rGGxUQEAAAAJ](https://scholar.google.com/citations?user=rGGxUQEAAAAJ)
-- Tiancong Chen, chen6271@umn.edu, [https://sites.google.com/view/tiancong-chen] (https://sites.google.com/view/tiancong-chen)
+- Tiancong Chen, chen6271@umn.edu, [https://sites.google.com/view/tiancong-chen](https://sites.google.com/view/tiancong-chen)
 - Hengyue Liang, liang656@umn.edu, [https://hengyuel.github.io/](https://hengyuel.github.io/)
 - Ju Sun, jusun@umn.edu, [https://sunju.org/](https://sunju.org/)
