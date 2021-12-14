@@ -34,7 +34,7 @@ Alternatively, you can also create the dataset by yourself. The clean images can
 ```
 ## Contact
 
-- Hengkang Wang, wang9881@umn.edu, [https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/](https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/)
+- Hengkang Wang, wang9881@umn.edu, [https://scholar.google.com/citations?hl=en&user=APqDZvUAAAAJ](https://scholar.google.com/citations?hl=en&user=APqDZvUAAAAJ)
 - Taihui Li, lixx5027@umn.edu, [https://taihui.github.io/](https://taihui.github.io/)
 - Zhong Zhuang, zhuan143@umn.edu, [https://scholar.google.com/citations?user=rGGxUQEAAAAJ](https://scholar.google.com/citations?user=rGGxUQEAAAAJ)
 - Tiancong Chen, chen6271@umn.edu, [https://sites.google.com/view/tiancong-chen](https://sites.google.com/view/tiancong-chen)
