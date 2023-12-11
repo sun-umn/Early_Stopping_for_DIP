@@ -1,6 +1,6 @@
-# Early Stopping for Deep Image Prior
+# Early Stopping for Deep Image Prior (TMLR)
 
-This is the official implementation of Early Stopping for Deep Image Prior, which has been accepted to the TMLR. You can find our paper via either [*OpenReview*](https://openreview.net/forum?id=231ZzrLC8X) or [*arXiv*](https://arxiv.org/abs/2112.06074).
+This is the official implementation of Early Stopping for Deep Image Prior, which has been accepted to the [*TMLR*](https://jmlr.org/tmlr/). You can find our paper via either [*OpenReview*](https://openreview.net/forum?id=231ZzrLC8X) or [*arXiv*](https://arxiv.org/abs/2112.06074).
 
 
 ## Dependencies
